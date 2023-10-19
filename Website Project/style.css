@@ -1,0 +1,19 @@
+.parent {
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+}
+.child {
+    display: inline-block;
+    border: 5px solid black;
+    padding: 1rem 1rem;
+    vertical-align: top;
+    max-width: 50%;
+}
+* {
+    text-align: center;
+    font-family: 'Exo', sans-serif;
+}
+td {
+    border: 1px solid black;
+}
